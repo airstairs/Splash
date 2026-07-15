@@ -7,4 +7,4 @@ a cydia inspired tweak for android to be used alongside nova launcher gestures (
 
 
 
-![demo](sr.gif)  
+![demo](sr1.gif)  
