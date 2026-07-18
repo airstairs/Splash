@@ -45,9 +45,11 @@
         document.body.appendChild(renderer.domElement);
     
         // --- Mobile & Desktop Controls ---
-        const controls = new THREE.OrbitControls(camera, renderer.domElement);
-        controls.enableDamping = true; // Smooth motion
-        controls.dampingFactor = 0.05;
+
+      // <!--
+      //   const controls = new THREE.OrbitControls(camera, renderer.domElement);
+      //   controls.enableDamping = true; // Smooth motion
+      //   controls.dampingFactor = 0.05; /-->
     
         // --- Lighting ---
         const ambientLight = new THREE.AmbientLight(0xffffff, 0.6);
@@ -168,7 +170,7 @@
             // The canvas remains stationary now unless dragged.
     
             // Update controls (required for damping effect)
-            controls.update();
+            //controls.update();
     
             renderer.render(scene, camera);
         }

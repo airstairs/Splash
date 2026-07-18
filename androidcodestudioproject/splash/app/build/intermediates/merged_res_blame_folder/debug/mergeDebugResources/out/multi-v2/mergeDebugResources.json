@@ -572,25 +572,6 @@
             "outputFile": "com.xthan.splash.app-debug-37:/values-night-v8_values-night-v8.arsc.flat",
             "map": [
                 {
-                    "source": "/storage/emulated/0/AndroidIDEProjects/splash/app/src/main/res/values-night/themes.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "100",
-                        "endLines": "5",
-                        "endColumns": "12",
-                        "endOffsets": "313"
-                    },
-                    "to": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endLines": "5",
-                        "endColumns": "12",
-                        "endOffsets": "164"
-                    }
-                },
-                {
                     "source": "/data/user/0/com.tom.rv2ide/files/home/.gradle/caches/8.13/transforms/f246dd902a186212f6e774ac54ea989b/transformed/material-1.14.0/res/values-night-v8/values-night-v8.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65",
@@ -622,6 +603,25 @@
                         "startOffsets": "169,239,323,407,503,605,707,7421",
                         "endColumns": "69,83,83,95,101,101,93,88",
                         "endOffsets": "234,318,402,498,600,702,796,7505"
+                    }
+                },
+                {
+                    "source": "/storage/emulated/0/splash/app/src/main/res/values-night/themes.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "100",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "313"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "164"
                     }
                 }
             ]
@@ -3445,20 +3445,20 @@
                     }
                 },
                 {
-                    "source": "/storage/emulated/0/AndroidIDEProjects/splash/app/src/main/res/values/colors.xml",
+                    "source": "/storage/emulated/0/splash/app/src/main/res/values/strings.xml",
                     "from": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,97",
-                        "endColumns": "41,41",
-                        "endOffsets": "92,134"
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "43",
+                        "endOffsets": "55"
                     },
                     "to": {
-                        "startLines": "745,1212",
-                        "startColumns": "4,4",
-                        "startOffsets": "39706,72325",
-                        "endColumns": "41,41",
-                        "endOffsets": "39743,72362"
+                        "startLines": "2562",
+                        "startColumns": "4",
+                        "startOffsets": "174076",
+                        "endColumns": "43",
+                        "endOffsets": "174115"
                     }
                 },
                 {
@@ -3663,23 +3663,6 @@
                     }
                 },
                 {
-                    "source": "/storage/emulated/0/AndroidIDEProjects/splash/app/src/main/res/values/strings.xml",
-                    "from": {
-                        "startLines": "1",
-                        "startColumns": "4",
-                        "startOffsets": "16",
-                        "endColumns": "43",
-                        "endOffsets": "55"
-                    },
-                    "to": {
-                        "startLines": "2562",
-                        "startColumns": "4",
-                        "startOffsets": "174076",
-                        "endColumns": "43",
-                        "endOffsets": "174115"
-                    }
-                },
-                {
                     "source": "/data/user/0/com.tom.rv2ide/files/home/.gradle/caches/8.13/transforms/223f148ff4337344ffa8b874ba32a7df/transformed/activity-1.13.0/res/values/values.xml",
                     "from": {
                         "startLines": "2,3",
@@ -3750,6 +3733,25 @@
                     }
                 },
                 {
+                    "source": "/storage/emulated/0/splash/app/src/main/res/values/themes.xml",
+                    "from": {
+                        "startLines": "2,7",
+                        "startColumns": "4,4",
+                        "startOffsets": "100,321",
+                        "endLines": "5,7",
+                        "endColumns": "12,60",
+                        "endOffsets": "315,377"
+                    },
+                    "to": {
+                        "startLines": "3450,9683",
+                        "startColumns": "4,4",
+                        "startOffsets": "247147,713388",
+                        "endLines": "3453,9683",
+                        "endColumns": "12,59",
+                        "endOffsets": "247256,713443"
+                    }
+                },
+                {
                     "source": "/data/user/0/com.tom.rv2ide/files/home/.gradle/caches/8.13/transforms/269d1b662ca1c4defb4e5b653a21a0d7/transformed/transition-1.5.0/res/values/values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
@@ -3786,22 +3788,20 @@
                     }
                 },
                 {
-                    "source": "/storage/emulated/0/AndroidIDEProjects/splash/app/src/main/res/values/themes.xml",
+                    "source": "/storage/emulated/0/splash/app/src/main/res/values/colors.xml",
                     "from": {
-                        "startLines": "2,7",
+                        "startLines": "2,3",
                         "startColumns": "4,4",
-                        "startOffsets": "100,321",
-                        "endLines": "5,7",
-                        "endColumns": "12,60",
-                        "endOffsets": "315,377"
+                        "startOffsets": "55,97",
+                        "endColumns": "41,41",
+                        "endOffsets": "92,134"
                     },
                     "to": {
-                        "startLines": "3450,9683",
+                        "startLines": "745,1212",
                         "startColumns": "4,4",
-                        "startOffsets": "247147,713388",
-                        "endLines": "3453,9683",
-                        "endColumns": "12,59",
-                        "endOffsets": "247256,713443"
+                        "startOffsets": "39706,72325",
+                        "endColumns": "41,41",
+                        "endOffsets": "39743,72362"
                     }
                 }
             ]
