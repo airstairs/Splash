@@ -28,9 +28,9 @@
         android:theme="@style/Theme.splash" >
         <activity
             android:name="com.xthan.splash.MainActivity"
-            android:excludeFromRecents="true"
+            android:excludeFromRecents="false"
             android:exported="true"
-            android:noHistory="true" >
+            android:noHistory="false" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

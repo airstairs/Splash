@@ -14,8 +14,8 @@
         
         <activity
             android:name=".MainActivity"
-            android:excludeFromRecents="true"
-            android:noHistory="true"
+            android:excludeFromRecents="false"
+            android:noHistory="false"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

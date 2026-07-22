@@ -42,20 +42,22 @@
                     }
                 },
                 {
-                    "source": "/storage/emulated/0/splash/app/src/main/res/values/strings.xml",
+                    "source": "/storage/emulated/0/try/splash/app/src/main/res/values/themes.xml",
                     "from": {
-                        "startLines": "1",
-                        "startColumns": "4",
-                        "startOffsets": "16",
-                        "endColumns": "43",
-                        "endOffsets": "55"
+                        "startLines": "2,7",
+                        "startColumns": "4,4",
+                        "startOffsets": "100,321",
+                        "endLines": "5,7",
+                        "endColumns": "12,60",
+                        "endOffsets": "315,377"
                     },
                     "to": {
-                        "startLines": "2562",
-                        "startColumns": "4",
-                        "startOffsets": "174076",
-                        "endColumns": "43",
-                        "endOffsets": "174115"
+                        "startLines": "3450,9683",
+                        "startColumns": "4,4",
+                        "startOffsets": "247147,713388",
+                        "endLines": "3453,9683",
+                        "endColumns": "12,59",
+                        "endOffsets": "247256,713443"
                     }
                 },
                 {
@@ -188,6 +190,23 @@
                     }
                 },
                 {
+                    "source": "/storage/emulated/0/try/splash/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "43",
+                        "endOffsets": "55"
+                    },
+                    "to": {
+                        "startLines": "2562",
+                        "startColumns": "4",
+                        "startOffsets": "174076",
+                        "endColumns": "43",
+                        "endOffsets": "174115"
+                    }
+                },
+                {
                     "source": "/data/user/0/com.tom.rv2ide/files/home/.gradle/caches/8.13/transforms/574c896f1d7c544e1a1746bbe2797ad6/transformed/coordinatorlayout-1.1.0/res/values/values.xml",
                     "from": {
                         "startLines": "2,3,6,16",
@@ -313,6 +332,23 @@
                     }
                 },
                 {
+                    "source": "/storage/emulated/0/try/splash/app/src/main/res/values/colors.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,97",
+                        "endColumns": "41,41",
+                        "endOffsets": "92,134"
+                    },
+                    "to": {
+                        "startLines": "745,1212",
+                        "startColumns": "4,4",
+                        "startOffsets": "39706,72325",
+                        "endColumns": "41,41",
+                        "endOffsets": "39743,72362"
+                    }
+                },
+                {
                     "source": "/data/user/0/com.tom.rv2ide/files/home/.gradle/caches/8.13/transforms/0620bcc3bfb6ac2547b7f8e72039bd39/transformed/savedstate-1.2.1/res/values/values.xml",
                     "from": {
                         "startLines": "2",
@@ -327,25 +363,6 @@
                         "startOffsets": "166730",
                         "endColumns": "53",
                         "endOffsets": "166779"
-                    }
-                },
-                {
-                    "source": "/storage/emulated/0/splash/app/src/main/res/values/themes.xml",
-                    "from": {
-                        "startLines": "2,7",
-                        "startColumns": "4,4",
-                        "startOffsets": "100,321",
-                        "endLines": "5,7",
-                        "endColumns": "12,60",
-                        "endOffsets": "315,377"
-                    },
-                    "to": {
-                        "startLines": "3450,9683",
-                        "startColumns": "4,4",
-                        "startOffsets": "247147,713388",
-                        "endLines": "3453,9683",
-                        "endColumns": "12,59",
-                        "endOffsets": "247256,713443"
                     }
                 },
                 {
@@ -382,23 +399,6 @@
                         "endLines": "18282",
                         "endColumns": "24",
                         "endOffsets": "1154233"
-                    }
-                },
-                {
-                    "source": "/storage/emulated/0/splash/app/src/main/res/values/colors.xml",
-                    "from": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,97",
-                        "endColumns": "41,41",
-                        "endOffsets": "92,134"
-                    },
-                    "to": {
-                        "startLines": "745,1212",
-                        "startColumns": "4,4",
-                        "startOffsets": "39706,72325",
-                        "endColumns": "41,41",
-                        "endOffsets": "39743,72362"
                     }
                 }
             ]

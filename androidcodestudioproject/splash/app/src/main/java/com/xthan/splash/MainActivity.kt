@@ -67,13 +67,14 @@ class MainActivity : AppCompatActivity() {
             loadWebViewContent()
         }
 
+        // Traps the user inside the app/activity once root web history is reached
         onBackPressedDispatcher.addCallback(this, object : OnBackPressedCallback(true) {
             override fun handleOnBackPressed() {
                 if (webView.canGoBack()) {
+                    // Navigate backwards inside the WebView history stack[cite: 2]
                     webView.goBack()
                 } else {
-                    isEnabled = false
-                    onBackPressedDispatcher.onBackPressed()
+                    // Do nothing! Prevents the back button from exiting the app or closing the activity[cite: 2].
                 }
             }
         })

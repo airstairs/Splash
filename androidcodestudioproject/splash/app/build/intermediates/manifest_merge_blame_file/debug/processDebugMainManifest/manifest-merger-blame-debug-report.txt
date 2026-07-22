@@ -20,46 +20,46 @@
 15-->[androidx.core:core:1.18.0] /data/user/0/com.tom.rv2ide/files/home/.gradle/caches/8.13/transforms/bfa6dcd04c797a1352f65aba946ef1e7/transformed/core-1.18.0/AndroidManifest.xml:26:22-94
 16
 17    <application
-17-->/storage/emulated/0/splash/app/src/main/AndroidManifest.xml:5:5-27:19
+17-->/storage/emulated/0/try/splash/app/src/main/AndroidManifest.xml:5:5-27:19
 18        android:allowBackup="true"
-18-->/storage/emulated/0/splash/app/src/main/AndroidManifest.xml:6:9-35
+18-->/storage/emulated/0/try/splash/app/src/main/AndroidManifest.xml:6:9-35
 19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 19-->[androidx.core:core:1.18.0] /data/user/0/com.tom.rv2ide/files/home/.gradle/caches/8.13/transforms/bfa6dcd04c797a1352f65aba946ef1e7/transformed/core-1.18.0/AndroidManifest.xml:28:18-86
 20        android:dataExtractionRules="@xml/data_extraction_rules"
-20-->/storage/emulated/0/splash/app/src/main/AndroidManifest.xml:7:9-65
+20-->/storage/emulated/0/try/splash/app/src/main/AndroidManifest.xml:7:9-65
 21        android:debuggable="true"
 22        android:extractNativeLibs="false"
 23        android:fullBackupContent="@xml/backup_rules"
-23-->/storage/emulated/0/splash/app/src/main/AndroidManifest.xml:8:9-54
+23-->/storage/emulated/0/try/splash/app/src/main/AndroidManifest.xml:8:9-54
 24        android:icon="@drawable/ic_launcher"
-24-->/storage/emulated/0/splash/app/src/main/AndroidManifest.xml:9:9-45
+24-->/storage/emulated/0/try/splash/app/src/main/AndroidManifest.xml:9:9-45
 25        android:label="@string/app_name"
-25-->/storage/emulated/0/splash/app/src/main/AndroidManifest.xml:10:9-41
+25-->/storage/emulated/0/try/splash/app/src/main/AndroidManifest.xml:10:9-41
 26        android:roundIcon="@drawable/ic_launcher"
-26-->/storage/emulated/0/splash/app/src/main/AndroidManifest.xml:11:9-50
+26-->/storage/emulated/0/try/splash/app/src/main/AndroidManifest.xml:11:9-50
 27        android:supportsRtl="true"
-27-->/storage/emulated/0/splash/app/src/main/AndroidManifest.xml:12:9-35
+27-->/storage/emulated/0/try/splash/app/src/main/AndroidManifest.xml:12:9-35
 28        android:theme="@style/Theme.splash" >
-28-->/storage/emulated/0/splash/app/src/main/AndroidManifest.xml:13:9-44
+28-->/storage/emulated/0/try/splash/app/src/main/AndroidManifest.xml:13:9-44
 29        <activity
-29-->/storage/emulated/0/splash/app/src/main/AndroidManifest.xml:15:9-25:20
+29-->/storage/emulated/0/try/splash/app/src/main/AndroidManifest.xml:15:9-25:20
 30            android:name="com.xthan.splash.MainActivity"
-30-->/storage/emulated/0/splash/app/src/main/AndroidManifest.xml:16:13-41
-31            android:excludeFromRecents="true"
-31-->/storage/emulated/0/splash/app/src/main/AndroidManifest.xml:17:13-46
+30-->/storage/emulated/0/try/splash/app/src/main/AndroidManifest.xml:16:13-41
+31            android:excludeFromRecents="false"
+31-->/storage/emulated/0/try/splash/app/src/main/AndroidManifest.xml:17:13-47
 32            android:exported="true"
-32-->/storage/emulated/0/splash/app/src/main/AndroidManifest.xml:19:13-36
-33            android:noHistory="true" >
-33-->/storage/emulated/0/splash/app/src/main/AndroidManifest.xml:18:13-37
+32-->/storage/emulated/0/try/splash/app/src/main/AndroidManifest.xml:19:13-36
+33            android:noHistory="false" >
+33-->/storage/emulated/0/try/splash/app/src/main/AndroidManifest.xml:18:13-38
 34            <intent-filter>
-34-->/storage/emulated/0/splash/app/src/main/AndroidManifest.xml:20:13-24:29
+34-->/storage/emulated/0/try/splash/app/src/main/AndroidManifest.xml:20:13-24:29
 35                <action android:name="android.intent.action.MAIN" />
-35-->/storage/emulated/0/splash/app/src/main/AndroidManifest.xml:21:17-69
-35-->/storage/emulated/0/splash/app/src/main/AndroidManifest.xml:21:25-66
+35-->/storage/emulated/0/try/splash/app/src/main/AndroidManifest.xml:21:17-69
+35-->/storage/emulated/0/try/splash/app/src/main/AndroidManifest.xml:21:25-66
 36
 37                <category android:name="android.intent.category.LAUNCHER" />
-37-->/storage/emulated/0/splash/app/src/main/AndroidManifest.xml:23:17-77
-37-->/storage/emulated/0/splash/app/src/main/AndroidManifest.xml:23:27-74
+37-->/storage/emulated/0/try/splash/app/src/main/AndroidManifest.xml:23:17-77
+37-->/storage/emulated/0/try/splash/app/src/main/AndroidManifest.xml:23:27-74
 38            </intent-filter>
 39        </activity>
 40
